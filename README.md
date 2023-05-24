@@ -1,6 +1,6 @@
 
 # first-web-server
-Mi primera pequeña petición a una API con Python
+Mi primera pequeña petición a una API con FastAPI
 
 #Install all the dependencies required for this project.
 
